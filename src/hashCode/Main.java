@@ -11,10 +11,10 @@ public class Main {
 		h2.name = "太郎";
 		h2.hp = 130;
 		System.out.println(h2.hashCode()); //23086047
-		h2.hp = 200;
-		System.out.println(h2.hashCode());
+		h2.hp = 200; //hpに200を再代入
+		System.out.println(h2.hashCode()); //23086117  同じインスタンスでも中身が変わるとhashCodeも変わる
 		System.out.println(h2.hp);
-		System.out.println(h2.hashCode()); //23086047
+		System.out.println(h2.hashCode()); //23086117
 	}
 
 }
