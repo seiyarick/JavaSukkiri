@@ -40,8 +40,12 @@ public class Main {
 		System.out.println("残高順でのソート後");
 		for (Account a :list) {
 			System.out.println(a.number);
-			System.out.println(a.zandaka);
+//			System.out.println(a.zandaka);
 		}
 	}
+	// 自然順序(口座番号順)で並び替えるTreeSetを生成
+	// TreeSet<Account> accounts1 = new TreeSet<>();
+	// 格納すると残高順で並び替えるTreeSet
+	// TreeSet<Account> accounts2 = new TreeSet<>(new ZandakaComparator());
 
 }
