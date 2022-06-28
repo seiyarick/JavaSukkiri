@@ -13,7 +13,8 @@ public class Main {
 		System.out.println("コピー元の勇者の剣の名前を変えます");
 		h1.getSword().setName("ヒノキの棒");
 		System.out.println("コピー元とコピー先の勇者の装備を表示します");
-		System.out.print("コピー元：" + h1.getSword().getName() + "/コピー先：" + h2.getSword().getName());
+		// コピー元：ヒノキの棒/コピー先：ヒノキの棒　になってしまう
+		System.out.print("コピー元h1：" + h1.getSword().getName() + "/コピー先h2：" + h2.getSword().getName());
 	}
 
 }

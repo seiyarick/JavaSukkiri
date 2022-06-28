@@ -11,7 +11,8 @@ public class Hero implements Cloneable{
 		Hero result = new Hero();
 		result.name = this.name;
 		result.hp = this.hp;
-		result.sword = this.sword;
+		// Swordクラスでcloneableを実装した上で深いコピー(deep copy)
+		result.sword = this.sword.clone();
 		return result;
 	}
 	
