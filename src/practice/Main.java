@@ -36,6 +36,12 @@ public class Main {
 	}
 
 }
+// 33行目をf.format(b.getPublishDate())の場合。9行目で指定している形になる
+//C言語入門 2018/06/21 ポインタも自由自在
+//Python入門 2019/06/11 カレーが食べたくなる
+//java入門 2011/10/07 スッキリわかる
+
+//33行目をb.getPublishDate()の場合
 //C言語入門 Sun Jan 21 00:06:00 JST 2018 ポインタも自由自在
 //Python入門 Fri Jan 11 00:06:00 JST 2019 カレーが食べたくなる
 //java入門 Fri Jan 07 00:10:00 JST 2011 スッキリわかる
