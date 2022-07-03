@@ -5,6 +5,7 @@ package account;
 public class Account {
 	private String accountNo;
 	private int zandaka;
+	// 口座種別を文字列で受け取り格納
 	private String accountType;
 	public Account(String aNo, String aType) {
 		this.accountNo = aNo;
