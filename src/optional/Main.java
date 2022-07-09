@@ -21,7 +21,7 @@ public class Main {
 		return Optional.ofNullable(r);
 	}
 	public static void main(String[] args) {
-		Optional<String> s = decorate("aaaa", 'aa');
+		Optional<String> s = decorate("", '*');
 		// 必然的にnullを考慮した処理を書くことになる
 		System.out.println(s.orElse("nullのため処理できません"));
 	}
