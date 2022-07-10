@@ -8,7 +8,7 @@ public class Main {
 		sb.put("鍵が開きました");
 		String rock = "";
 		// KeyTypeによってループの試行回数を変更
-		for (int i = 0; i < 1023; i++) {
+		for (int i = 0; i < 1024; i++) {
 			rock = sb.get();
 		}
 		if (rock != null) {
@@ -16,6 +16,7 @@ public class Main {
 		} else {
 			System.out.println("鍵は開いていません");
 		}
+		
 		
 	}
 
