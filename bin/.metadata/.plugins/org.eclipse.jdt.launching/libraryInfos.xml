@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home" version="1.7.0_80">
+        <bootpath>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/resources.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/rt.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/sunrsasign.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/jsse.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/jce.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/charsets.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/jfr.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/7/Home/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/15/Home" version="15.0.1"/>
+    <libraryInfo home="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home" version="1.8.0_202">
+        <bootpath>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/resources.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/rt.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/sunrsasign.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/jsse.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/jce.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/charsets.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/jfr.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/8/Home/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/11/Home" version="11.0.9"/>
+    <libraryInfo home="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Home" version="1.6.0_65">
+        <bootpath>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/jsfd.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/classes.jar"/>
+            <entry path="/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/ui.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/laf.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/sunrsasign.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/jsse.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/jce.jar"/>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Classes/charsets.jar"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Home/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/private/var/folders/1b/1svf34ls5pz9f4q4dwflxcxr0000gn/T/AppTranslocation/311B0179-38DD-41C2-BB16-70663069421D/d/Eclipse_2020-12.app/Contents/java/6/Home/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>
