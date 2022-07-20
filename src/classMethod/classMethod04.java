@@ -8,8 +8,10 @@ public class classMethod04 {
 		
 		System.out.println(Human04.GREETING);
 		
+//		インスタンスメンバーは直接使用できない↓
 //		Human04.instanceMethodPrint();
-		
+//		
+//		インスタンスメンバーはインスタンス生成してから使用する
 		yamada.instanceMethodPrint();
 	}
 
